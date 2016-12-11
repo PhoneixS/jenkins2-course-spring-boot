@@ -5,7 +5,7 @@
 	<artifactId>spring-boot-build</artifactId>
 	<version>1.4.0.BUILD-SNAPSHOT</version>
 	<packaging>pom</packaging>
-	<name>Spring Boot Build</name>
+	<name>Spring Boot Build Test</name>
 	<description>Spring Boot Build for Testing jenkins</description>
 	<url>http://projects.spring.io/spring-boot/</url>
 	<organization>
@@ -41,6 +41,11 @@
 			<roles>
 				<role>Project lead</role>
 			</roles>
+		</developer>
+		<developer>
+			<id>PhoneixS</id>
+			<name>Javier Alfonso</name>
+			<email>PhoneixSegovia at gmail.com</email>
 		</developer>
 	</developers>
 	<prerequisites>
